@@ -1,1 +1,1 @@
-Repo for the learnenough series
+Repo for the LearnEnough series
